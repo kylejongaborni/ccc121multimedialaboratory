@@ -1,6 +1,6 @@
-# Java Program Archive by Kyle Gaborni
+# Java Program Archive
 
-This repository contains archived Java programs created for academic practice, algorithm experimentation, and personal exploration. Each file is a self-contained Java class demonstrating a specific concept or algorithm in programming, data structures, or mathematics.
+This repository contains archived Java programs and some Python projects created for academic practice, algorithm experimentation, and personal exploration. Each file is a self-contained Java class and Python exercise demonstrating a specific concept or algorithm in programming, data structures, or mathematics.
 
 ---
 
@@ -19,12 +19,11 @@ This repository contains archived Java programs created for academic practice, a
 - **Dijkstra.java** – Implements Dijkstra's algorithm for finding the shortest path in a weighted graph.
 
 ### 🧪 Other or Miscellaneous Files
-_(Add details about any additional `.java` files you have here)_
 
 ---
 
 ## 🚀 How to Use
-To run any program:
+To run any Java program:
 1. Open the file in any Java IDE (e.g., IntelliJ, Eclipse, VS Code).
 2. Ensure the `public static void main(String[] args)` method exists.
 3. Compile and run the file.
@@ -40,8 +39,7 @@ To run any program:
 
 ## 👤 Author
 **Kyle Jon B. Gaborni**  
-Bachelor of Information Technology – Specializing in Database Management  
-2021–2025
+Bachelor of Information Technology – Major in Database  
 
 ---
 
